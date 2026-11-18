@@ -1,0 +1,19 @@
+{
+  "version": 1,
+  "site": {
+    "brand": "Lumière",
+    "language": "vi",
+    "title": "Lumière — Khách sạn 5 sao bên vịnh Đà Nẵng",
+    "description": "Lumière là khách sạn 5 sao bên vịnh Đà Nẵng: 86 phòng và suite hướng biển, spa trầm hương, hai nhà hàng và rooftop bar. Đặt phòng trực tiếp, hồi đáp trong 2 giờ.",
+    "indexing": true,
+    "favicon": null,
+    "socialImage": null
+  },
+  "pages": [
+    {
+      "path": "/",
+      "title": "Lumière — Khách sạn 5 sao bên vịnh Đà Nẵng",
+      "description": "Lumière là khách sạn 5 sao bên vịnh Đà Nẵng: 86 phòng và suite hướng biển, spa trầm hương, hai nhà hàng và rooftop bar. Đặt phòng trực tiếp, hồi đáp trong 2 giờ."
+    }
+  ]
+}
